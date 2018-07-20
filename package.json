@@ -54,7 +54,7 @@
     "graceful-ncp": "^3.0.0",
     "inherits": "~2.0.1",
     "lazy-req": "^2.0.0",
-    "lodash": "~4.17.4",
+    "lodash": "~4.17.10",
     "optimist": "^0.6.1",
     "platform-overrides": "~1.0.1",
     "plist": "^3.0.1",
